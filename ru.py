@@ -1,0 +1,1 @@
+priv = приветствую тебя в playerok cardinal 

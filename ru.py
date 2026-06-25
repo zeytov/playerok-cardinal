@@ -22,4 +22,4 @@ mm_proxy = 🌐прокси
 gs_autobump = автоподнятие
 gs_delivery = авто-выдача
 gs_answering = автоответчик
-gs_
+gs_question = ❔
